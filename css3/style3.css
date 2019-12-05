@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+body,p,h1,h2,h3,h4{margin:0;padding:0;}
+
+a{
+	text-decoration: none;
+	color:#EB4E0C;
+}body{margin:0 auto;
+	width:900px;
+	background-image:url("../../大一作业/网编作业的副本/190808216赵俸莹实验6/images/1.jpg")
+}
+header{margin:20px;;
+padding:40px;}
+nav{display:inline;
+	
+	width:900px;
+	height:40px;
+	background-color:transparent;
+	line-height:30px;
+	padding:5px 10px;
+}
+section{display:inline;
+	vertical-align: middle;
+	folat:right;
+	width:660px;
+	height:400px;
+	background-color:transparent;
+}
+artical{display:inline;
+	float:right;
+	vertical-align:middle;
+	width:700px;
+	height:400px;
+	background-color:transparent;
+}
+section2{display:inline;
+	vertical-align:middle;
+	float:right;
+	width:700px;
+	height:450px;
+	background-color:transparent;
+}
+section21{display:inline;
+	vertical-align:middle;
+	float:right;
+	width:660px;
+	height:400px;
+	background-color:transparent;
+}
+nav3{vertical-align:middle;
+float:right;
+text-align: center;
+margin:0 auto;
+top:150px;
+bottom:100px;
+right:0;
+left:0;
+	diaplay:inline;
+}
+a{
+	display:inline;
+	height:30px;
+	line-height:30px;
+	margin-left: 50px;
+	padding:20px;
+}
+br{
+	text-align: center;
+}
+
+p,li,h1,h2,h3,h4{font-family:'宋体';color:#000;text-align:center;font-style:italic;font-weight:900;white-space:nowrap;text-decoration:blink;}
+h1{font-size:36px;}
+h2{font-size:28px;}
+h3{font-size:20px;}
+h4{font-size:18px;}
+
+p{font-fmily:'华文楷体''楷体''宋体';text-indent:2em;}
+.begina{font-size:24px;text-align:center;color:#F60;font-weight:700;text-decoration:none;font-style:oblique;white-space:nowrap;}
+.strong{color:#C66;font-weight:700;text-decoration:none;font-style:oblique;white-space:nowrap;font-size:24px;}
+#p2{font-style:oblique;}
+#container{width:%100;margin:0 auto;padding:5px 20px;;text-align:center;border-width:10px;border-style:solid dotted;background-color:transparent;}
+footer{
+	font-size:40px;
+	float:left;
+	background:#17D981;
+	text-align:center;
+	margin-bottom: 0;
+	display:inline;
+width:100%;
+	height:50px;
+}
